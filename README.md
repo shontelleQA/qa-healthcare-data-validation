@@ -1,2 +1,2 @@
 # healthcare-data-qa
-Healthcare-flavored QA portfolio showcasing API automation, ETL/data validation, and data masking with synthetic datasets. Built with Python, FastAPI, Pytest, and SQLite.
+Healthcare-focused QA project showcasing API automation, ETL validation, and data masking using synthetic datasets. Built with Python, FastAPI, PyTest, and SQLite to verify data quality and transformation logic across healthcare systems.
